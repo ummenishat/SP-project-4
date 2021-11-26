@@ -17,7 +17,7 @@ int main()
         system("clear all");
          
         //print time in HH : MM : SS format
-        printf("%02d : %02d : %02d ",hour,minute,second);
+        printf("%02d : %02d : %02d ",all hour, all minute, all second);
          
          //clear output buffer in gcc
         fflush(stdout);
